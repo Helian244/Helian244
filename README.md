@@ -77,7 +77,7 @@
 ## 📄 Currículum Completo
 
 Puedes descargar mi CV en PDF aquí:  
-[📥 Descargar CV (PDF)](https://raw.githubusercontent.com/Helian244/Helian244/main/Curr%C3%ADculum%20Vitae%20CV%20Andr%C3%A9%20Helian.pdf)
+[📥 Descargar CV (PDF)](https://github.com/Helian244/Helian244/blob/develop/Curr%C3%ADculum_Vitae_CV_Andr%C3%A9_Helian.pdf)
 
 ---
 
