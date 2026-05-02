@@ -7,7 +7,7 @@
   <a href="mailto:andrelo_17@hotmail.com"><img src="https://img.shields.io/badge/Email-andrelo__17%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://wa.me/59163596760"><img src="https://img.shields.io/badge/WhatsApp-%2B591_63596760-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://github.com/Helian244"><img src="https://img.shields.io/badge/GitHub-Helian244-181717?style=for-the-badge&logo=github"/></a>
-  <a href="https://www.linkedin.com/in/tuusuario"><img src="https://img.shields.io/badge/LinkedIn-tu_usuario-0077B5?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/andre-aldunate-guzmán-4a510334b"><img src="https://img.shields.io/badge/LinkedIn-andre__aldunate__guzmán-0077B5?style=for-the-badge&logo=linkedin"/></a>
 </p>
 
 <p align="center">
@@ -26,12 +26,6 @@
 ---
 
 ## 🛠️ Stack Tecnológico
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,react,js,php,html,css,py,java,flutter,mysql,firebase,git,githubactions,postman,vscode&perline=8" />
-</p>
-
-*O si prefieres badges individuales:*
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -78,7 +72,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Cisco-CCNA_1-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cisco-CCNA_2_(Reciente)-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco-CCNA_2-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
   <img src="https://img.shields.io/badge/Programaci%C3%B3n_Web-Fundamentos_(Reciente)-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD_Bootcamp-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
@@ -100,5 +94,5 @@ Puedes descargar mi CV en PDF aquí:
 ---
 
 <p align="center">
-  <i>¡Gracias por visitar mi perfil! Siempre abierto a colaborar y aprender 🚀</i>
+  <i>¡Gracias por visitar mi perfil! Siempre abierto a colaborar y aprender :D 🚀</i>
 </p>
